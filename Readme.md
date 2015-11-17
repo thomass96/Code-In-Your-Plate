@@ -1,5 +1,15 @@
 <h1><center>Garlic Chicken Kiev</h1></center>
 <center>![image](http://realfood.tesco.com/media/images/GlutenFreeChickKiev-3f366bfa-b1ba-4a14-9a59-b043e88f54fa-0-472x310.jpg)
+	
+	Cooking Time -
+Prep:20 mins
+Cook:30 mins - 40 mins
+
+	Skill level	
+Easy
+
+	Servings
+Makes 8
 
 <h2>Ingredients -</h2>
 
@@ -32,3 +42,32 @@
 4. Dip each breast in the flour, then the egg and finally the breadcrumbs, repeating so each Kiev has a double coating (this will make them extra crisp and help to keep the butter inside). Chill for at least 1 hr before cooking, or freeze now – see tips, below.
 
 4. To cook, heat oven to 180C/160C fan/ gas 4. Heat the oil in a large frying pan over a medium-high heat. Fry the Kievs for 2-3 mins each side until golden – you may need to do this in batches. Transfer to a baking tray and cook for 20-25 mins until cooked through.
+
+	
+		Nutrition per serving	
+
+Kcalories -
+549
+ 
+Protein -
+30g
+ 
+Carbs -
+31g
+ 
+Fat -
+35g
+ 
+Saturates -
+17g
+ 
+Fibre -
+2g
+ 
+Sugar -
+2g
+ 
+Salt -
+1.02g
+
+<h1> E N J O Y </h1>
