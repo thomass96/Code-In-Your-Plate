@@ -1,0 +1,89 @@
+body {
+  font-family: 'Raleway',sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.cooking_info_title {
+  font-size: 18px;
+  font-weight: 600;
+  color: #fff;
+  background-color: rgba(28, 55, 78, 0.62);
+}
+
+.cooking_info_ {
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.section {
+  font-weight: 600;
+  background-color: rgba(28, 55, 78, 0.62);
+}
+
+.section_title {
+  color: #fff;
+}
+
+.enjoy {
+  font-weight: 800;
+  font-size: 18px;
+}
+
+.card {
+  padding: auto;
+  background-color: #ffffff
+}
+
+img {
+    max-width: 100%;
+}
+
+h1, h2, header p, ul, ol p
+{
+    padding: 0 1rem;
+}
+
+ul, ol {
+    list-style: none;
+    font-weight: 800;
+}
+
+.instructions {
+font-weight: 300;
+padding-left: 10%;
+}
+
+ol li {
+    counter-increment: item;
+    position: relative;
+    padding-top: 3%;
+}
+
+ol li p:after {
+    content: counter(item);
+    font-size: 2.5rem;
+    /* opacity: 0.1; */
+    position: absolute;
+    color: rebeccapurple;
+    top: 0;
+    left: 0;
+}
+
+/* MEDIA QUERIES */
+
+@media (min-width: 40rem) /* this line is the query */
+{
+    /* if the query is true, then the following rules are applied.. */
+
+    body 
+    {
+        max-width: 40rem;
+        margin: 0 auto; /* centre it horizontally */
+    }
+
+    /* ..up to here */
+}
+
